@@ -2,6 +2,6 @@ Use VBA to analyze ~1million rows of stock market data. Code runs down a column 
 
 
 
-![Alt text](2016 screen shot.PNG
-?raw=true "Optional Title")
 
+
+![Alt text](2016 screen shot.PNG?raw=true "Optional Title")

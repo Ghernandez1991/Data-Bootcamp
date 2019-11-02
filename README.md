@@ -2,3 +2,4 @@ Use VBA to analyze ~1million rows of stock market data. Code runs down a column 
 
 
 
+2016 screen shot.PNG

@@ -1,4 +1,18 @@
-Use VBA to analyze ~1million rows of stock market data. Code runs down a column of stocks and captures the total volume of each stock traded. If the ticker has changed, it captures the previous value and places it in a predefined cell. 
+Use VBA to analyze ~1million rows of stock market data. 
+
+
+The VB script  will loop through one year of stock data for each run and return the total volume each stock had over that year.
+
+
+It will also display the ticker symbol to coincide with the total stock volume.
+
+
+
+
+
+
+
+
 
 
 
